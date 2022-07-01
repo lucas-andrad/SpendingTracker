@@ -1,1 +1,1 @@
-# SpendingTracker-Front
+# SpendingTracker
